@@ -12,6 +12,10 @@ After Cloning the repository check index.html on your browser and you should be 
 ```
   index.html
 ```
+## Live Version:
+Live version of this app can be found here:
+https://suhpin95.github.io/Basic-PWA/
+
 ## License
 
 MIT License
