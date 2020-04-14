@@ -4,13 +4,13 @@ const assets = [
   "/index.html",
   "/stylesheet/app.css",
   "/js/app.js",
-  "images/venna.jpeg",
-  "images/violin.jpg",
-  "images/tabla.jpg",
-  "images/mandolin.jpg",
-  "images/piano.jpg",
-  "images/Electric-Guitar.png",
-  "images/backGroundImage.jpg"
+  "/images/venna.jpeg",
+  "/images/violin.jpg",
+  "/images/tabla.jpg",
+  "/images/mandolin.jpg",
+  "/images/piano.jpg",
+  "/images/Electric-Guitar.png",
+  "/images/backGroundImage.jpg"
 ];
 
 self.addEventListener("install", installEvent => {
