@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 #Hide _config.yml file
 *.yml
-=======
-_config.yml
->>>>>>> origin/master
+
