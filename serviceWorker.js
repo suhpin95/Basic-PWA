@@ -1,4 +1,4 @@
-const staticInstrument = "musical-instrument-v1";
+const staticInstrument = "Swarasmruti-v1";
 const assets = [
   "/",
   "/index.html",
